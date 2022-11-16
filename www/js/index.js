@@ -25,6 +25,6 @@ function onDeviceReady() {
     }
 
     function onError(message) {
-        alert("Photo not taken because" + message)
+        alert("Photo not taken because " + message)
     }
 }

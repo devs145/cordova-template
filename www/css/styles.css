@@ -1,5 +1,22 @@
 /* add your own styles here */
 
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
 img {
-    max-width: 80%;
+    max-width: 100%;
+    border-radius: 15px;
+    box-shadow: black;
+}
+
+.material-icons {
+    font-size: 120px;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
 }
